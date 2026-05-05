@@ -13,3 +13,8 @@ All my MERN stack full-stack projects
 - Description: CRUD, admin and superadmin panel, comments, likes, activity tracker for each and every activity performed, performance tracker(admins, posts, category)
 - Tech: MERN
 - Repo: https://github.com/sewak07/Politics-hub
+
+### E-commerce
+-Description: Full-stack e-commerce platform with secure authentication, product catalog, cart & order management, role-based access (user/admin), and scalable backend architecture. Built with real-world flows in mind— from browsing to checkout, from admin control to user trust.
+-Tech: MERN
+-Repo: https://github.com/sewak07/E-commerce
