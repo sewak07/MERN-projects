@@ -38,3 +38,26 @@ All my MERN stack full-stack projects
 - **Project Goal:** Built as a real-world full-stack application to demonstrate practical skills in frontend development, backend API design, database management, authentication, authorization, payment integration, and e-commerce workflows.
 
 - **Repository:** https://github.com/sewak07/E-Commerce-Project
+
+## OSOAA Nepal Website
+
+* **Description:** A modern, full-stack e-commerce website for OSOAA Nepal, a wellness and nutrition brand specializing in supplements and fitness accessories. The platform provides a seamless online shopping experience with a professional, responsive interface.
+
+* **Tech Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT authentication, Cloudinary, Gmail SMTP, and eSewa payment integration.
+
+* **Key Features:**
+
+  * Responsive storefront with product listings, categories, search, and filtering.
+  * User registration, login, email OTP verification, and password recovery.
+  * Shopping cart, wishlist, checkout, and order management.
+  * eSewa payment integration and Cash on Delivery (COD).
+  * Admin dashboard for managing products, categories, orders, users, coupons, and banners.
+  * Cloudinary-powered product image management.
+  * Email notifications and customer contact form.
+  * Blog management for Nepali and English articles and recipes.
+  * Trust-focused presentation of product quality testing and certification information.
+
+* **Project Goal:** To build a secure, user-friendly, and scalable online shopping platform that strengthens OSOAA's digital presence, simplifies supplement shopping, and enables efficient business management through a centralized admin dashboard.
+
+* **Repository:** https://github.com/sewak07/osoaa-fullstack-development
+
